@@ -1,4 +1,4 @@
-# Joey
-Github Qwicklabs
-git config --global user.name "Joseph"
-git config --global user.email "jeobu2010@live.com"
+git clone https://github.com/KobbyJoey/Joey.git directory_name
+cd Joey
+
+I am editing the README file.
